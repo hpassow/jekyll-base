@@ -48,11 +48,24 @@ SPF <i>could</i> be tricky, but that was solved by depreciation.  The only other
 
 <i>A customer writes in saying their “site won’t build”.  Compose: your best short (2-paragraph) customer-facing answer, without any additional data, that could be useful in the generic case, but would also lead to a customer providing a more actionable response.</i>
 
+Hello ($CustomerName),
+
+I understand your site won't build.  I apologize for the frustration.  Let's get you back on track.  First and foremost, make sure that your site will build locally.  If so, double check the package versions in the <a href="https://www.netlify.com/docs/build-settings/">Build Settings</a> we are using match yours.  
+
+The most common build errors are listed in the link below:<br>
+<a href="https://www.netlify.com/docs/build-gotchas/">Build Gotchas</a><br>
+
+If you are still experiencing errors, please respond with the exact error message and the steps you are taking to receive that message, and I'll be happy to assist you further.
+
+Thank you,
+Heather Passow
+Netlify Support
+
 <i>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?  </i>  
-Yes.  
+Yes, I can.  
 
 And, while I was tempted to just leave it at that, <a href="https://netlify.theroadiswide.com/netlify/timesscar">https://netlify.theroadiswide.com/netlify/timesscar</a> is what you're looking for.  It's random, but it's what was on the playlist when I was doing this section.
 
 <i>(optional/bonus) Could you give us a suggestion to improve this test or the job posting?</i>
 
-Well, the previous question actually could just be answered with a yes or no.  You might want to try reformatting it to "Please demonstrate a redirect..."
+Well, the previous question could just be answered with a yes or no.  You might want to try reformatting it to "Please demonstrate a redirect..."
