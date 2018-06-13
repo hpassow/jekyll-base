@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Netlify Exercises"
+date:   2018-06-13 01:15:27
+categories: Netlify
+---
+
 <b>Most Favorite</b>  
 Respond to 50+ support requests via email or chat most days - I did this at GoDaddy with no issues.  
 Engage multiple users at once via chat to answer their questions and troubleshoot problems - As above.  
