@@ -44,6 +44,10 @@ I ran in to this a good deal during my time at GoDaddy.  The major challenges th
 <i>A customer writes in saying their “site won’t build”.  Compose: your best short (2-paragraph) customer-facing answer, without any additional data, that could be useful in the generic case, but would also lead to a customer providing a more actionable response.</i>
 
 <i>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?  </i>
+Yes.  
 
+And, while I was tempted to just leave it at that, <a href="https://netlify.theroadiswide.com/netlify/timesscar">https://netlify.theroadiswide.com/netlify/timesscar</a> is what you're looking for.  It's random, but it's what was on the playlist when I was doing this section.
 
 <i>(optional/bonus) Could you give us a suggestion to improve this test or the job posting?</i>
+
+Well, the previous question actually could just be answered with a yes or no.  You might want to try reformatting it to "Please demonstrate a redirect..."
