@@ -45,4 +45,5 @@ I ran in to this a good deal during my time at GoDaddy.  The major challenges th
 
 <i>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?  </i>
 
+
 <i>(optional/bonus) Could you give us a suggestion to improve this test or the job posting?</i>
