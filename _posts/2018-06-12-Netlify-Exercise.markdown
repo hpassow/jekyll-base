@@ -30,7 +30,7 @@ My favorite thing about providing technical support is when someone has been ext
 <i>What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
 Talk about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.</i>
 
-I found Netlify to be super easy to use.  I started out doing web sites in vim/Notepad and my current site is WordPress.  I haven't really done a good deal in between, and I haven't had need to play with anything more technical on the web development front.  I was really impressed with how super easy it was to deploy.  
+I'm running these two together.  I found Netlify to be super easy to use.  I started out doing web sites in vim/Notepad and my current site is WordPress.  I haven't really done a good deal in between, and I haven't had need to play with anything more technical on the web development front.  I was really impressed with how super easy it was to deploy.  
 
 I chose Jekyll because it was highly rated.  Knowing I don't know a good deal about how this is deployed, something highly rated will generally tend to have fewer bugs on the whole.  The only problem I encountered during setup was with that, not with Netlify.  I was mostly making it too hard on myself.  I didn't realize that regular HTML code would work, and I was having issues with formatting and line breaks.  *Sheepish look* That was solved with Google.
 
