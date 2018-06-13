@@ -10,3 +10,4 @@ github_username:  hpassow
 
 # Build settings
 markdown: kramdown
+include: _redirects
