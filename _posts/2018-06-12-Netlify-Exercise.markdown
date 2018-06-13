@@ -20,14 +20,15 @@ categories: Netlify
 <li>Respond to Netlify customers on Twitter - I don't like Twitter.  I can't explain it.  It's just a thing.  </li>
 <li>Deliver a talk to many people you don't know at a conference or meetup - See also: <a href="https://i.imgur.com/DYXPTHC.jpg">introvert</a></li>
 <li>Dig through server logs to troubleshoot a customer's website behavior - I can do it.  "vi /var/log/httpd/error_log" and I are old friends.  But it's not my favorite thing in the world to comb through.</li>
-<li>Find and recruit teammates for the Support team - I'm happy to train people, but I'm not naturally outgoing enough to be a recruiter.</li></ul>
-<br><br>
-_What is your favorite thing about providing technical support?_  
+<li>Find and recruit teammates for the Support team - I'm happy to train people, but I'm not naturally outgoing enough to be a recruiter.</li>
+</ul>
+<br>
+<i>What is your favorite thing about providing technical support?</i>
 
 My favorite thing about providing technical support is when someone has been extremely frustrated with something and then getting them to that "aha!" moment where they understand what the issue is.  It's incredibly rewarding to see that lightbulb go off and someone truly grok what's happening.
 <br><br>
-_What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
-Talk about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it._
+<i>What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
+Talk about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.</i>
 
 I found Netlify to be super easy to use.  I started out doing web sites in vim/Notepad and my current site is WordPress.  I haven't really done a good deal in between, and I haven't had need to play with anything more technical on the web development front.  I was really impressed with how super easy it was to deploy.  
 
