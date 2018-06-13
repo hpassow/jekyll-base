@@ -7,7 +7,7 @@ categories: Netlify
 
 <b>Most Favorite</b>  
 <ul>
-<li>Respond to 50+ support requests via email or chat most days - I did this at GoDaddy with no issues.</li>
+<li>Respond to 50+ support requests via email or chat most days - I did this at GoDaddy with no issues.  Give me a pair of headphones and a full queue.</li>
 <li>Engage multiple users at once via chat to answer their questions and troubleshoot problems - As above.</li>
 <li>Help train and onboard new support teammates - I really enjoy getting new people up to speed.</li>   
 <li>Spot trends across many cases to improve Netlify's product and service. - This is oddly something I'm fairly good at doing.  I'm fairly good at noticing trends.</li>
