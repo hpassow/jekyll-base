@@ -28,10 +28,13 @@ Talk about how you made your site and why you chose the tools you did.  Briefly 
 
 I found Netlify to be super easy to use.  I started out doing web sites in vim/Notepad and my current site is WordPress.  I haven't really done a good deal in between, and I haven't had need to play with anything more technical on the web development front.  I was really impressed with how super easy it was to deploy.  
 
-I chose Jekyll because it was highly rated.  Knowing I don't know a good deal about how this is deployed, something highly rated will generally tend to have fewer bugs on the whole.  The only problem I encountered during setup was with that, not with Netlify.  *Sheepish look* I didn't realize that a double space was a line break, and I've been doing a double space after a period forever. That was solved with Google.
+I chose Jekyll because it was highly rated.  Knowing I don't know a good deal about how this is deployed, something highly rated will generally tend to have fewer bugs on the whole.  The only problem I encountered during setup was with that, not with Netlify.  I was mostly making it too hard on myself.  I didn't realize that regular HTML code would work, and I was having issues with formatting and line breaks.  *Sheepish look* That was solved with Google.
+
+I also had to stop myself from changing the theme around too much and customizing the site.  It's an aesthetics thing.
 
 <i>Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.</i>
 
+Easy.  <a href="http://developer.mailchimp.com/documentation/mailchimp/">http://developer.mailchimp.com/documentation/mailchimp/</a> - seriously, MailChimp should be the guiding star of all documentation everywhere.  If they've documented it, it's there.  If they haven't documented it, it might also be there.  Beautifully laid out, tons of information, and not at all counter-intuitive.
 
 <i>Why do you think SSL/HTTPS is important?</i>
 
@@ -39,11 +42,13 @@ SSL/HTTPS is important because we're seeing more and more compromises, and more 
 
 <i>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users.</i>
 
-I ran in to this a good deal during my time at GoDaddy.  The major challenges that I encountered during DNS configuration were usually a misunderstanding of how to properly configure A and CNAME records.  
+I ran in to this a good deal during my time at GoDaddy.  The major challenges that I encountered during DNS configuration were usually a misunderstanding of how to properly configure A and CNAME records.  That's pretty quickly solved with DIG.  While "technically" DNS propagation can take 24-48 hours, that would be exceedingly unlikely.  As a general rule, it's almost instantaneous. 
+
+SPF <i>could</i> be tricky, but that was solved by depreciation.  The only other real major issue I encountered was people not registering their name servers with the registrar.  That's an issue in GoDaddy, true, but at least in Google Domains, it's pretty quick and easy.  I tend to believe it's more that GoDaddy's DNS configuration tool isn't as straightforward about that as some others, but I only have extensive experience in their systems.
 
 <i>A customer writes in saying their “site won’t build”.  Compose: your best short (2-paragraph) customer-facing answer, without any additional data, that could be useful in the generic case, but would also lead to a customer providing a more actionable response.</i>
 
-<i>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?  </i>
+<i>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?  </i>  
 Yes.  
 
 And, while I was tempted to just leave it at that, <a href="https://netlify.theroadiswide.com/netlify/timesscar">https://netlify.theroadiswide.com/netlify/timesscar</a> is what you're looking for.  It's random, but it's what was on the playlist when I was doing this section.
