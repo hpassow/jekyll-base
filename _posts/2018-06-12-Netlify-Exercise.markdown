@@ -42,7 +42,7 @@ Easy.  <a href="http://developer.mailchimp.com/documentation/mailchimp/">http://
 <br><br><br>
 <i>Why do you think SSL/HTTPS is important?</i>
 
-SSL/HTTPS is important because we're seeing more and more compromises, and more people working on open wifi networks that are now more widely available (and doing so without a VPN).  Without an SSL, anyone can intercept that traffic that you're sending with your passwords, bank information, credit card number, etc.  
+SSL/HTTPS is important because we're seeing more and more compromises, and more people working on open wifi networks that are now more widely available (and doing so without a VPN).  Without an SSL, anyone can intercept that traffic that you're sending with your passwords, bank information, credit card number, etc.
 <br><br><br>
 <i>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users.</i>
 
@@ -61,8 +61,8 @@ The most common build errors are listed in the link below:<br>
 
 If you are still experiencing errors, please respond with the exact error message and the steps you are taking to receive that message, and I'll be happy to assist you further.
 
-Thank you,
-Heather Passow
+Thank you,  
+Heather Passow  
 Netlify Support
 <br><br><br>
 <i>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?  </i>  
