@@ -6,18 +6,21 @@ categories: Netlify
 ---
 
 <b>Most Favorite</b>  
-Respond to 50+ support requests via email or chat most days - I did this at GoDaddy with no issues.  
-Engage multiple users at once via chat to answer their questions and troubleshoot problems - As above.  
-Help train and onboard new support teammates - I really enjoy getting new people up to speed.    
-Spot trends across many cases to improve Netlify's product and service. - This is oddly something I'm fairly good at doing.  I'm fairly good at noticing trends.  
-Help manage communications during a service outage - After time with Charles Schwab when we really WERE losing millions of dollars a second if something was down, I've got the ability to keep a pretty cool head in a crisis. ;)  
+<ul>
+<li>Respond to 50+ support requests via email or chat most days - I did this at GoDaddy with no issues.</li>
+<li>Engage multiple users at once via chat to answer their questions and troubleshoot problems - As above.</li>
+<li>Help train and onboard new support teammates - I really enjoy getting new people up to speed.</li>   
+<li>Spot trends across many cases to improve Netlify's product and service. - This is oddly something I'm fairly good at doing.  I'm fairly good at noticing trends.</li>
+<li>Help manage communications during a service outage - After time with Charles Schwab when we really WERE losing millions of dollars a second if something was down, I've got the ability to keep a pretty cool head in a crisis. ;) </li>
+</ul>
   
 <b>Least Favorite</b>  
-Work with prospective customers to explain our service and the pricing model - too close to "sales", and I'm rubbish at sales.  
-Respond to Netlify customers on Twitter - I don't like Twitter.  I can't explain it.  It's just a thing.  
-Deliver a talk to many people you don't know at a conference or meetup - See also: introvert  
-Dig through server logs to troubleshoot a customer's website behavior - I can do it.  "vi /var/log/httpd/error_log" and I are old friends.  But it's not my favorite thing in the world to comb through.  
-Find and recruit teammates for the Support team - I'm happy to train people, but I'm not naturally outgoing enough to be a recruiter.  
+<ul>
+<li>Work with prospective customers to explain our service and the pricing model - too close to "sales", and I'm rubbish at sales. </li> 
+<li>Respond to Netlify customers on Twitter - I don't like Twitter.  I can't explain it.  It's just a thing.  </li>
+<li>Deliver a talk to many people you don't know at a conference or meetup - See also: <a href="https://i.imgur.com/DYXPTHC.jpg">introvert</a></li>
+<li>Dig through server logs to troubleshoot a customer's website behavior - I can do it.  "vi /var/log/httpd/error_log" and I are old friends.  But it's not my favorite thing in the world to comb through.</li>
+<li>Find and recruit teammates for the Support team - I'm happy to train people, but I'm not naturally outgoing enough to be a recruiter.</li></ul>
 <br><br><br>
 _What is your favorite thing about providing technical support?_  
 
