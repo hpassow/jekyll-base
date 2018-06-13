@@ -24,7 +24,7 @@ categories: Netlify
 </ul>
 <br>
 <i>What is your favorite thing about providing technical support?</i>
-
+  
 My favorite thing about providing technical support is when someone has been extremely frustrated with something and then getting them to that "aha!" moment where they understand what the issue is.  It's incredibly rewarding to see that lightbulb go off and someone truly grok what's happening.
 <br><br><br>
 <i>What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
