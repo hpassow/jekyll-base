@@ -1,18 +1,18 @@
-Most Favorite
-Respond to 50+ support requests via email or chat most days - I did this at GoDaddy with no issues.
-Engage multiple users at once via chat to answer their questions and troubleshoot problems - As above.
-Help train and onboard new support teammates - I really enjoy getting new people up to speed.  
-Spot trends across many cases to improve Netlify's product and service. - This is oddly something I'm fairly good at doing.  I'm fairly good at noticing trends.
-Help manage communications during a service outage - After time with Charles Schwab when we really WERE losing millions of dollars a second if something was down, I've got the ability to keep a pretty cool head in a crisis. ;)
-
-Least Favorite
-Work with prospective customers to explain our service and the pricing model - too close to "sales", and I'm rubbish at sales.
-Respond to Netlify customers on Twitter - I don't like Twitter.  I can't explain it.  It's just a thing.
-Deliver a talk to many people you don't know at a conference or meetup - See also: introvert
-Dig through server logs to troubleshoot a customer's website behavior - I can do it.  "vi /var/log/httpd/error_log" and I are old friends.  But it's not my favorite thing in the world to comb through.
-Find and recruit teammates for the Support team - I'm happy to train people, but I'm not naturally outgoing enough to be a recruiter.
-
-_What is your favorite thing about providing technical support?_
+Most Favorite  
+Respond to 50+ support requests via email or chat most days - I did this at GoDaddy with no issues.  
+Engage multiple users at once via chat to answer their questions and troubleshoot problems - As above.  
+Help train and onboard new support teammates - I really enjoy getting new people up to speed.    
+Spot trends across many cases to improve Netlify's product and service. - This is oddly something I'm fairly good at doing.  I'm fairly good at noticing trends.  
+Help manage communications during a service outage - After time with Charles Schwab when we really WERE losing millions of dollars a second if something was down, I've got the ability to keep a pretty cool head in a crisis. ;)  
+  
+Least Favorite  
+Work with prospective customers to explain our service and the pricing model - too close to "sales", and I'm rubbish at sales.  
+Respond to Netlify customers on Twitter - I don't like Twitter.  I can't explain it.  It's just a thing.  
+Deliver a talk to many people you don't know at a conference or meetup - See also: introvert  
+Dig through server logs to troubleshoot a customer's website behavior - I can do it.  "vi /var/log/httpd/error_log" and I are old friends.  But it's not my favorite thing in the world to comb through.  
+Find and recruit teammates for the Support team - I'm happy to train people, but I'm not naturally outgoing enough to be a recruiter.  
+  
+_What is your favorite thing about providing technical support?_  
 
 
 _What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
@@ -20,7 +20,7 @@ Talk about how you made your site and why you chose the tools you did.  Briefly 
 
 I found Netlify to be super easy to use.  I started out doing web sites in vim/Notepad and my current site is WordPress.  I haven't really done a good deal in between, and I haven't had need to play with anything more technical on the web development front.  I was really impressed with how super easy it was to deploy.  
 
-I chose Jeckyll because it was highly rated.  Knowing I don't know a good deal about how this is deployed, something highly rated will generally tend to have fewer bugs on the whole.  The only problem I encountered during setup was with that, not with Netlify.  *Sheepish look* It was not knowing how to enter <br> when doing the "Quick Facts" section on the About page and then not knowing the equivalent for <i> here.  That was solved with Google.
+I chose Jekyll because it was highly rated.  Knowing I don't know a good deal about how this is deployed, something highly rated will generally tend to have fewer bugs on the whole.  The only problem I encountered during setup was with that, not with Netlify.  *Sheepish look* I didn't realize that a double space was a line break, and I've been doing a double space after a period forever. That was solved with Google.
 
 Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.
 Why do you think SSL/HTTPS is important?
@@ -32,5 +32,5 @@ without any additional data,
 that could be useful in the generic case, 
 but would also lead to a customer providing a more actionable response.
 
-(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?
+(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?  
 (optional/bonus) Could you give us a suggestion to improve this test or the job posting?
