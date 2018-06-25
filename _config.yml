@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   It's not the magic that makes it work; it's the way we work that makes it magic.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://netlify.theroadiswide.com/" # the base hostname & protocol for your site
-# twitter_username: HeatherPassow
+
 github_username:  hpassow
 
 # Build settings
