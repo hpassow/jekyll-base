@@ -18,7 +18,7 @@ categories: Netlify
 <ul>
 <li>Work with prospective customers to explain our service and the pricing model - too close to "sales", and I'm rubbish at sales. </li> 
 <li>Respond to Netlify customers on Twitter - I don't like Twitter.  I can't explain it.  It's just a thing.  </li>
-<li>Deliver a talk to many people you don't know at a conference or meetup - See also: <a href="https://i.imgur.com/DYXPTHC.jpg">introvert</a></li>
+<li>Deliver a talk to many people you don't know at a conference or meetup - See also: <a href="https://i.imgur.com/DYXPTHC.jpg" target="new">introvert</a></li>
 <li>Dig through server logs to troubleshoot a customer's website behavior - I can do it.  "vi /var/log/httpd/error_log" and I are old friends.  But it's not my favorite thing in the world to comb through.</li>
 <li>Find and recruit teammates for the Support team - I'm happy to train people, but I'm not naturally outgoing enough to be a recruiter.</li>
 </ul>
